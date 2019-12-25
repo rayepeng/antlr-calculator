@@ -225,6 +225,7 @@
     <property name="$PROJECT_DIR$/src/main/antlr4/compile/compile.g4::/gen-listener" value="false" />
     <property name="$PROJECT_DIR$/src/main/antlr4/compile/compile.g4::/gen-visitor" value="true" />
     <property name="$PROJECT_DIR$/src/main/antlr4/compile/compile.g4::/lib-dir" value="G:\2019\compile\bigwork\compile\src\main\compile" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
