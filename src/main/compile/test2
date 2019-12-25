@@ -1,0 +1,17 @@
+int n;
+n = 999999;
+int a;
+a = 2.111;
+a = a*n;
+while(n < 1000000){
+	write(n);
+	n = n +1;
+}
+if (n % 2 == 0) {
+    write(n);
+}
+else
+{
+	write(a);
+}
+write(n).
